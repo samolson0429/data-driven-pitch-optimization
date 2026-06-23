@@ -1,0 +1,13 @@
+Datasets used in this project are publicly available from Kaggle.
+
+Due to file size limitations, raw data files are not included in this repository.
+
+The three datasets can be found at:
+1. player_names.csv: https://www.kaggle.com/datasets/pschale/mlb-pitch-data-20152018?select=player_names.csv
+2. atbats.csv: https://www.kaggle.com/datasets/pschale/mlb-pitch-data-20152018?select=atbats.csv
+3. pitches.csv: https://www.kaggle.com/datasets/pschale/mlb-pitch-data-20152018?select=pitches.csv 
+
+To reproduce results:
+1. Download the datasets from Kaggle
+2. Place the CSV files in this directory
+3. Run pitch_optimization.py
