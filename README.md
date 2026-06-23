@@ -19,7 +19,6 @@ The goal of this project was to build and interactive analytics tool that identi
 ## Technologies
 
 - Python
-- Pandas
 - Scikit-learn
 - K-Means Clustering
 - Tableau
