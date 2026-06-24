@@ -60,12 +60,13 @@ My primary contributions included:
 - project_report.pdf: Detailed project report
 - pitch_optimization.py: Python source code
 - pitch_optimization_dashboard.twb: Tableau workbook
+- data folder: Instructions on downloading the datasets
 
 ## Dataset
 
 This project used publicly available MLB pitch-level and player data obtained from Kaggle.
 
-The original datasets are not included in this repository due to their size.
+The original datasets are not included in this repository due to their size. Please see the data folder within this repository for instructions on downloading the datasets.
 
 ## Skills Demonstrated
 
