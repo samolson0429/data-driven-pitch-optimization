@@ -1,6 +1,6 @@
 # Data-Driven Pitch Optimization
 
-## Interactive Baseball Analytics Decision Support Tool
+## Interactive baseball pitch recommendation tool using Python, K-Means clustering, and Tableau
 
 ![Dashboard](dashboard.png)
 
