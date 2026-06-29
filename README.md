@@ -24,10 +24,12 @@ The goal of this project was to build and interactive analytics tool that identi
 
 ## Analytical Techniques
 
-- Data Cleaning
-- Feature Engineering
-- K-Means Clustering
-- Data Visualization
+- Data cleaning
+- Data integration
+- Feature engineering
+- Machine learning
+- Clustering analysis
+- Data visualization
 
 ## Methodology
 
@@ -73,12 +75,3 @@ My primary contributions included:
 This project used publicly available MLB pitch-level and player data obtained from Kaggle.
 
 The original datasets are not included in this repository due to their size. Please see the data folder within this repository for instructions on downloading the datasets.
-
-## Skills Demonstrated
-
-- Data cleaning
-- Data integration
-- Feature engineering
-- Machine learning
-- Clustering analysis
-- Data visualization
