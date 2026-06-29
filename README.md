@@ -16,12 +16,18 @@ Modern baseball organizations collect millions of pitch-level observations, but 
 
 The goal of this project was to build and interactive analytics tool that identifies the pitch characteristics and strike zone locations that are most effective against individual batters, allowing users to make informed, data-driven decisions during game preparation and execution.
 
-## Technologies
+## Tools Used
 
 - Python
 - Scikit-learn
-- K-Means Clustering
 - Tableau
+
+## Analytical Techniques
+
+- Data Cleaning
+- Feature Engineering
+- K-Means Clustering
+- Data Visualization
 
 ## Methodology
 
