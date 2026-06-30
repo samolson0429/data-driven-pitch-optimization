@@ -19,7 +19,7 @@ The goal of this project was to build and interactive analytics tool that identi
 ## Tools Used
 
 - Python
-- Scikit-learn
+- scikit-learn
 - Tableau
 
 ## Analytical Techniques
