@@ -65,7 +65,7 @@ My primary contributions included:
 ## Repository Contents
 
 - dashboard.png: Screenshot of the interactive Tableau dashboard
-- project_report.pdf: Detailed project report
+- pitch_optimization_report.pdf: Detailed project report
 - pitch_optimization.py: Python source code
 - pitch_optimization_dashboard.twb: Tableau workbook
 - data folder: Instructions on downloading the datasets
